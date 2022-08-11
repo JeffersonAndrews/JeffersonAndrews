@@ -1,16 +1,37 @@
-### Hi there 👋
+## 🤓 Hi!
 
-<!--
-**JeffersonAndrews/JeffersonAndrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Jefferson Andrews
 
-Here are some ideas to get you started:
+Estudande de Tecnologia + Desenvolvedor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cursando 6º Semestre | Ciências da Computação.
+
+Meu foco atualmente esta em Front-end
+
+<div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonAndrews&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAndrews&layout=compact&theme=tokyonight"/> 
+  
+  
+</div>
+
+### 💬 let´s get connected:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-andrews-652934187/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3rMBY3HqK6)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson_andrews02/?r=nametag)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClfoDtyrqKN-GbpKBBd5vdQ)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gafanhoto_andrews)
+
+### 🛠️ Techologies e Tools use:
+
+<div>
+<img align="center" alt="Jefferson-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+<img align="center" alt="Jefferson-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+<img align="center" alt="Jefferson-vscode" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+<img align="center" alt="Jefferson-git" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+
+</div>
