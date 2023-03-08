@@ -11,7 +11,7 @@ Meu foco atualmente esta em Front-end
 <div>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonAndrews&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAndrews&layout=compact&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonAndrews&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   
 </div>
