@@ -4,7 +4,7 @@ Eu sou Jefferson Andrews
 
 Estudande de Tecnologia + Desenvolvedor
 
-Cursando 7º Semestre | Ciências da Computação.
+Cursando 8º Semestre | Ciências da Computação.
 
 Meu foco atualmente esta em Back-end e Banco de dados
 
